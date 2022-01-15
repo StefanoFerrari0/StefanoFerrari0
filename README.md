@@ -1,5 +1,9 @@
-[![Stefano's GitHub stats](https://github-readme-stats.vercel.app/api?username=StefanoFerrari0&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanoFerrari0&theme=radical?exclude_repo=MundoPc)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=StefanoFerrari0&theme=radical&count_private=true" />
+</a>
+<a href="ttps://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanoFerrari0&theme=radical&exclude_repo=MundoPc" />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
