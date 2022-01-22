@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=StefanoFerrari0&theme=radical&count_private=true" />
 </a>
 <a href="https://github.com/StefanoFerrari0/StefanoFerrari0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanoFerrari0&theme=radical" alt="Stefano's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanoFerrari0&theme=radical&exclude_repo=MundoPc" alt="Stefano's GitHub Stats" />
 </a>
 
 ## 🔧 Technologies & Tools
